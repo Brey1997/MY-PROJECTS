@@ -27,9 +27,18 @@ A structured portfolio of analytics, machine learning, reporting, and dashboard 
 
 The Boston proposal addresses an investment need in resilient housing, but does not model a sustainable financing structure. The Ethiopia entry is a group proposal developed for the World Bank Youth Summit 2025; it does not imply World Bank employment or endorsement. Each linked page describes the project and its demonstrated skills.
 
+## Published research papers
+
+These coauthored publications are listed separately from project presentations. The links lead to the publishers' article pages and full text.
+
+| Publication | Research focus | Portfolio areas |
+|---|---|---|
+| [Machine learning for PV-grid-battery microgrids](research-papers/ml-microgrid-sizing-dispatch/) | Reliability and levelized-cost optimization for critical facilities; *IRE Journals*, 2026 | Data analytics; sustainable energy and finance; SDGs 7, 9, 13 |
+| [Interpretable machine learning for audit planning](research-papers/interpretable-ml-audit-planning/) | Explainable audit risk scoring in financial services; *WJARR*, 2025 | Data analytics; finance and risk |
+
 ## Repository structure
 
-Each project has its own folder under `projects/`. Related source files, dashboards, reports, and presentations stay together so the portfolio is easier to browse and maintain.
+Each project has its own folder under `projects/`, while coauthored publications have separate entries under `research-papers/`. Related source files, dashboards, reports, and presentations stay together where available so the portfolio is easier to browse and maintain.
 
 ## Tools represented
 
