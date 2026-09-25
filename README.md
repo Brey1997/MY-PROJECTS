@@ -16,6 +16,9 @@ A structured portfolio of analytics, machine learning, reporting, and dashboard 
 | [Student Performance](projects/student-performance/) | Student performance analysis | PDF report |
 | [Consumer Protection Text Mining](projects/consumer-protection-text-mining/) | Text-mining analysis for consumer protection | PDF report |
 | [Traffic Accidents](projects/traffic-accidents/) | Traffic-accident analysis | PowerPoint presentation |
+| [Anthropic Equity Research](projects/anthropic-equity-research/) | Private-company investment thesis, valuation measures, peers, and risks | Project overview |
+| [Ethiopia Food Security and Rural Connectivity](projects/ethiopia-food-security-infrastructure/) | Group proposal for roads, food access, and a monitoring framework | Project overview |
+| [Boston Resilient Housing](projects/boston-resilient-housing/) | Team proposal for equitable, climate-resilient housing | Project overview |
 
 ## Repository structure
 
