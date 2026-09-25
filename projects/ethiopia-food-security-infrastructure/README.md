@@ -8,4 +8,3 @@ The proposed design combines multilingual phone surveys using the FAO Food Insec
 
 **Scope:** This is a proposal presented by a group. The slides describe suggested interventions and measures; they do not document deployed software, collected survey data, completed road construction, or measured outcomes. Individual team contributions are not specified in the deck.
 
-[Presentation](Group_A_Presentation.pptx)
