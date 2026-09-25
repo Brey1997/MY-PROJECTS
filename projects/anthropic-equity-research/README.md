@@ -8,4 +8,3 @@ A 12-slide investment research presentation prepared for the Innovation X Resear
 
 **Scope and caveat:** This is a research exercise, not a recommendation to trade. The presentation is dated July 27, 2026. Its company, financing, filing, revenue, and market-share claims should be independently checked against primary disclosures before external investment use. No live financial model or audited statements are included in this project.
 
-[Presentation](Anthropic_Equity_Research_Report.pptx)
