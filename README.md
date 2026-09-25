@@ -16,9 +16,16 @@ A structured portfolio of analytics, machine learning, reporting, and dashboard 
 | [Student Performance](projects/student-performance/) | Student performance analysis | PDF report |
 | [Consumer Protection Text Mining](projects/consumer-protection-text-mining/) | Text-mining analysis for consumer protection | PDF report |
 | [Traffic Accidents](projects/traffic-accidents/) | Traffic-accident analysis | PowerPoint presentation |
-| [Anthropic Equity Research](projects/anthropic-equity-research/) | Private-company investment thesis, valuation measures, peers, and risks | Project overview |
-| [Ethiopia Food Security and Rural Connectivity](projects/ethiopia-food-security-infrastructure/) | Group proposal for roads, food access, and a monitoring framework | Project overview |
-| [Boston Resilient Housing](projects/boston-resilient-housing/) | Team proposal for equitable, climate-resilient housing | Project overview |
+
+## Featured projects by area
+
+| Project | Data analytics | Finance | International organizations | Sustainable development and SDGs |
+|---|:---:|:---:|:---:|:---:|
+| [Anthropic Equity Research](projects/anthropic-equity-research/) | ✓ | ✓ | | |
+| [World Bank Youth Summit 2025: Ethiopia Food Security](projects/ethiopia-food-security-infrastructure/) | ✓ | | ✓ | ✓ — SDGs 2, 9, 17 |
+| [Boston Resilient Housing](projects/boston-resilient-housing/) | ✓ | | | ✓ — SDGs 10, 11, 13 |
+
+The Boston proposal addresses an investment need in resilient housing, but does not model a sustainable financing structure. The Ethiopia entry is a group proposal developed for the World Bank Youth Summit 2025; it does not imply World Bank employment or endorsement. Each linked page describes the project and its demonstrated skills.
 
 ## Repository structure
 
