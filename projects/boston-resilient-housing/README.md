@@ -8,4 +8,3 @@ The proposal prioritizes assessing housing needs using 311 reports, planning wit
 
 **Scope:** This is a proposed approach, not evidence that retrofits or new builds were completed. The presentation attributes the project to all four team members and does not assign individual slide ownership.
 
-[Presentation](Team_1-h_Sustainable_Solutions_for_Urban_Inequity_in_Boston_MA.pptx)
